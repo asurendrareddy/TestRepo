@@ -1,0 +1,1 @@
+Test Git purpose there is sample text file.
